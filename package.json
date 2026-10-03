@@ -1,0 +1,22 @@
+{
+  "name": "studentapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dns": "^0.2.2",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "i": "^0.3.7",
+    "mongoose": "^9.10.1",
+    "nodemon": "^3.1.14"
+  }
+}
